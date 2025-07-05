@@ -342,7 +342,7 @@ section h2::after {
     color: #ff5c94;
 }
 
-/* Mobile Devices (max-width: 768px) */
+
 @media (max-width: 768px) {
     header {
         flex-direction: column;
@@ -416,7 +416,7 @@ section h2::after {
     }
 }
 
-/* Tablets (min-width: 769px) and (max-width: 1024px) */
+
 @media (min-width: 769px) and (max-width: 1024px) {
     header {
         padding: 20px 40px;
